@@ -1,8 +1,12 @@
-# My Awesome Config
+# dotfiles  
 
-![All text](awesome.png)
+| Wm name | Screenshot | 
+| ------- | ---------- | 
+|  Qtile  | ![All text](/qtile/screenshot.png "Preview") |
+|  XMonad | ![All text](/xmonad/screenshot.png "Preview") |
+|  Awesome | ![All text](/awesome/screenshot.png "Preview") |
 
-### What you need:
-  - Installed Vicious (widgets)
-  - Installed Feh (wallpaper)
-  - Installed Font Awesome (icons)
+| Other files | Screenshot | 
+| ----------- | --------------- |
+| PulseEffects | None |
+| Neovim | None |
