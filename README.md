@@ -1,5 +1,8 @@
-# dotfiles  
+# My Awesome Config
 
-| Wm name | Screenshot | 
-| ------- | ---------- | 
-|  Qtile  | ![All text](/qtile/screenshot.png "Preview") |
+![All text](awesome.png)
+
+### What you need:
+  - Installed Vicious (widgets)
+  - Installed Feh (wallpaper)
+  - Installed Font Awesome (icons)
