@@ -8,5 +8,6 @@
 
 | Other files | Screenshot | Version |
 | ----------- | --------------- | --------------- |
+| Oh my zsh | ![All text](/zshrc/screenshot.png "Preview") | 5.8 |
 | PulseEffects | None | 4.8.4-1 |
 | Neovim | None | 0.7 |
